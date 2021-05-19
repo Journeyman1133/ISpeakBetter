@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.ispeakbetter.tests.LoginPageTest" duration-ms="45564" started-at="2021-05-19T13:41:39 EDT" finished-at="2021-05-19T13:42:24 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45564" started-at="2021-05-19T13:41:39 EDT" finished-at="2021-05-19T13:42:24 EDT">
+      <class name="com.qa.ispeakbetter.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.ispeakbetter.tests.LoginPageTest@1ed4004b]" name="setUp" is-config="true" duration-ms="13325" started-at="2021-05-19T13:41:39 EDT" finished-at="2021-05-19T13:41:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPageTitle()[pri:1, instance:com.qa.ispeakbetter.tests.LoginPageTest@1ed4004b]" name="testPageTitle" duration-ms="37" started-at="2021-05-19T13:41:52 EDT" description="I Speak Better Main Page Title" finished-at="2021-05-19T13:41:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.LoginPageTest@1ed4004b]" name="tearDown" is-config="true" duration-ms="327" started-at="2021-05-19T13:41:52 EDT" finished-at="2021-05-19T13:41:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.ispeakbetter.tests.LoginPageTest@1ed4004b]" name="setUp" is-config="true" duration-ms="11103" started-at="2021-05-19T13:41:52 EDT" finished-at="2021-05-19T13:42:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:2, instance:com.qa.ispeakbetter.tests.LoginPageTest@1ed4004b]" name="testLogin" duration-ms="4784" started-at="2021-05-19T13:42:04 EDT" description="Login System in I Speak Better" finished-at="2021-05-19T13:42:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.LoginPageTest@1ed4004b]" name="tearDown" is-config="true" duration-ms="240" started-at="2021-05-19T13:42:08 EDT" finished-at="2021-05-19T13:42:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.ispeakbetter.tests.LoginPageTest@1ed4004b]" name="setUp" is-config="true" duration-ms="13700" started-at="2021-05-19T13:42:09 EDT" finished-at="2021-05-19T13:42:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="filexiblePackage()[pri:3, instance:com.qa.ispeakbetter.tests.LoginPageTest@1ed4004b]" name="filexiblePackage" duration-ms="1778" started-at="2021-05-19T13:42:22 EDT" description="Flexible Package" finished-at="2021-05-19T13:42:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filexiblePackage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.LoginPageTest@1ed4004b]" name="tearDown" is-config="true" duration-ms="190" started-at="2021-05-19T13:42:24 EDT" finished-at="2021-05-19T13:42:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.ispeakbetter.tests.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.ispeakbetter.tests.LoginPageTest -->
+</testng-results>
